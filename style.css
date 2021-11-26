@@ -1,0 +1,45 @@
+*, ::before, ::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+boby{
+	height: 100vh;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tableau-style{
+	border-collapse: collapse;
+	min-width: 400px;
+	width: auto;
+	box-shadow: 0 5px 50px rgba(0, 0, 0, 0.15);
+	cursor: pointer;
+	margin: 100px auto;
+	border: 2px midnightblue ;
+}
+
+thead tr{
+	background-color: midnightblue;
+	color: #fff;
+	text-align: left;
+
+}
+
+th, td{
+	padding: 15px 20px;
+
+}
+
+
+tbody, th, td{
+	border: 1px solid #ddd;
+	background-image: url(\R) ;
+
+}
+
+
+
+
+
